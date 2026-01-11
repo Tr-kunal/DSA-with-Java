@@ -1,3 +1,4 @@
+package Recursion;
 public class Q10_palindrome {
     static boolean isPalindrome(String str, int i, int n){
         if(i>=n/2) return true;
