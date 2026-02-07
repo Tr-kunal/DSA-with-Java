@@ -1,4 +1,5 @@
 package Tree1;
+
 import java.util.*;
 public class TreeNode{
 	int data;
