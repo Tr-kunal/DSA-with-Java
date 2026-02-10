@@ -1,8 +1,6 @@
 package Tree1;
 
 import java.util.*;
-import Tree1.TreeNode;
-
 public class Tree {
 
 	// DFS input way
